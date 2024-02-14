@@ -1,4 +1,5 @@
 Introduction
+
 This is a simple Python script that generates secure passwords based on user-defined criteria. It allows users to specify the minimum length of the password and whether they want to include numbers and special characters.
 
 Features
@@ -9,9 +10,7 @@ Utilizes Python's built-in random and string modules for secure password generat
 Usage
 Clone the Repository:
 
-bash
-Copy code
-git clone <repository-url>
+git clone (https://github.com/Adri2166/PasswordGenerator.git)
 Navigate to the Directory:
 
 bash

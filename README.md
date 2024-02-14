@@ -11,6 +11,7 @@ Usage
 Clone the Repository:
 
 git clone (https://github.com/Adri2166/PasswordGenerator.git)
+
 Navigate to the Directory:
 
 bash

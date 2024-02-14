@@ -14,12 +14,10 @@ git clone (https://github.com/Adri2166/PasswordGenerator.git)
 
 Navigate to the Directory:
 
-bash
-Copy code
+
 cd password-generator
 Run the Script:
 
-Copy code
 python password_generator.py
 Follow the Prompts:
 
